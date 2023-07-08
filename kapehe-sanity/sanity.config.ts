@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'kapehe-sanity',
 
-  projectId: 'hpt2uqae',
+  projectId: 'wfzsx0vt',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
